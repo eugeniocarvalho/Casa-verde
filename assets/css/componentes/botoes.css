@@ -5,7 +5,7 @@
   color: var(--branco);
   font-family: inherit;
   font-weight: var(--peso-botao);
-  padding: 1rem 0;
+  padding: 1.75rem 0;
   text-align: center;
   width: 100%;
 }

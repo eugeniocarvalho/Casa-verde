@@ -4,7 +4,7 @@
 
 .cartao-video__video {
   max-height: 17.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: .5rem;
   overflow: hidden;
   position: relative;
   width: 100%;
@@ -31,5 +31,5 @@
   color: var(--preto);
   font-size: var(--tamanho-destaque);
   font-weight: var(--peso-destaque);
-  margin-bottom: 1.75rem;
+  margin-bottom: .5rem;
 }
